@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2020-UILabs_M.iml" filepath="$PROJECT_DIR$/.idea/modules/2020-UILabs_M.iml" group="UILabs_M" />
       <module fileurl="file://$PROJECT_DIR$/UILabs_M.iml" filepath="$PROJECT_DIR$/UILabs_M.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UILabs_M-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UILabs_M-app.iml" group="UILabs_M/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
